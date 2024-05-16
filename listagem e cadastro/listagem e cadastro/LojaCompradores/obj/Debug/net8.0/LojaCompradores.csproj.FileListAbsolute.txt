@@ -1,0 +1,5 @@
+C:\Users\domin\Desktop\listagem e cadastro\LojaCompradores\obj\Debug\net8.0\LojaCompradores.csproj.AssemblyReference.cache
+C:\Users\domin\Desktop\listagem e cadastro\LojaCompradores\obj\Debug\net8.0\LojaCompradores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\domin\Desktop\listagem e cadastro\LojaCompradores\obj\Debug\net8.0\LojaCompradores.AssemblyInfoInputs.cache
+C:\Users\domin\Desktop\listagem e cadastro\LojaCompradores\obj\Debug\net8.0\LojaCompradores.AssemblyInfo.cs
+C:\Users\domin\Desktop\listagem e cadastro\LojaCompradores\obj\Debug\net8.0\LojaCompradores.csproj.CoreCompileInputs.cache

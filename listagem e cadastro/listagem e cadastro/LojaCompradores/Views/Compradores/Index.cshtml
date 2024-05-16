@@ -1,0 +1,25 @@
+@model List<Comprador>
+
+<h1>Lista de Compradores</h1>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Nome/Razão Social</th>
+            <th>Email</th>
+            <th>Telefone</th>
+            <th>Bloqueado</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var comprador in Model)
+        {
+            <tr>
+                <td>@comprador.NomeRazaoSocial</td>
+                <td>@comprador.Email</td>
+                <td>@comprador.Telefone</td>
+                <td>@(comprador.Bloqueado ? "Sim" : "Não")</td>
+            </tr>
+        }
+    </tbody>
+</table>
